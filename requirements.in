@@ -1,0 +1,12 @@
+boto3
+click
+oauthlib
+requests
+requests-oauthlib
+
+# used to validate tokens
+pyjwt
+cryptography
+
+# optional quality of life
+rich
